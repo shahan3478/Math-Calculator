@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Kablammo&family=Poppins:wght@100;300;400;500;600&family=Roboto:wght@300&display=swap');
+html,body{
+    height: 100%;
+    width: 100%;
+    font-family: 'Kablammo', cursive;
+    background-color: rgb(50, 42, 42);
+}
+.button{
+    width: 66px;
+    padding: 20px;
+    margin: 0 3px;
+    border: 2px solid black;
+    border-radius: 30px;
+    cursor: pointer;
+    color:rgb(179, 32, 32)
+
+}
+.row{
+    margin: 8px 0px;
+}
+.row input{
+    width: 291px;
+    margin: 0;
+    padding: 10px 0px;
+    border: 2px solid black;
+    border-radius: 18px;
+    font-size: 20px;
+}
