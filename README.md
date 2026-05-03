@@ -6,29 +6,29 @@ A functional and sleek **Math Calculator** application built to handle everyday 
 
 ## 🚀 Features
 
-*   **Core Arithmetic**: Supports addition, subtraction, multiplication, and division with real-time results[cite: 3].
-*   **Modular Styling**: Utilizes a dedicated utility CSS file for consistent and scalable design patterns[cite: 3].
-*   **Responsive UI**: Optimized for different screen sizes, ensuring usability on both mobile and desktop environments[cite: 3].
-*   **Efficient Logic**: Powered by vanilla JavaScript to ensure high performance and zero external dependencies[cite: 3].
+*   **Core Arithmetic**: Supports addition, subtraction, multiplication, and division with real-time results.
+*   **Modular Styling**: Utilizes a dedicated utility CSS file for consistent and scalable design patterns.
+*   **Responsive UI**: Optimized for different screen sizes, ensuring usability on both mobile and desktop environments.
+*   **Efficient Logic**: Powered by vanilla JavaScript to ensure high performance and zero external dependencies.
 
 ---
 
 ## 🛠️ Project Structure
 
-The codebase for this project is organized within the **Math-Calculator-main.zip** archive and includes the following files[cite: 3]:
+The codebase for this project is organized within the **Math-Calculator-main.zip** archive and includes the following files:
 
-*   **`index.html`**: The structural backbone of the calculator, defining the display and button layout[cite: 3].
-*   **`script.js`**: Contains the mathematical logic and DOM manipulation for handling user inputs[cite: 3].
-*   **`style.css`**: The primary stylesheet for the calculator's visual aesthetic[cite: 3].
-*   **`utils.css`**: A utility-first styling sheet used for layout management and reusable design components[cite: 3].
+*   **`index.html`**: The structural backbone of the calculator, defining the display and button layout.
+*   **`script.js`**: Contains the mathematical logic and DOM manipulation for handling user inputs.
+*   **`style.css`**: The primary stylesheet for the calculator's visual aesthetic.
+*   **`utils.css`**: A utility-first styling sheet used for layout management and reusable design components.
 
 ---
 
 ## 💻 Tech Stack
 
-*   **HTML5**: Semantic markup for the calculator interface[cite: 3].
-*   **CSS3**: Custom styles and utility-based layout management[cite: 3].
-*   **JavaScript (ES6+)**: Logic for handling operations and event listeners[cite: 3].
+*   **HTML5**: Semantic markup for the calculator interface.
+*   **CSS3**: Custom styles and utility-based layout management.
+*   **JavaScript (ES6+)**: Logic for handling operations and event listeners.
 
 ---
 
@@ -45,5 +45,5 @@ To get a local copy up and running, follow these simple steps:
     cd Math-Calculator-main
     ```
 3.  **Run the application**:
-    Open the `index.html` file in any modern web browser to start calculating[cite: 3].
+    Open the `index.html` file in any modern web browser to start calculating.
 ```
